@@ -6,7 +6,6 @@ Date: December 15th 2023
 
 # My project: a movie reccomender system 
 
-# The Problem Area
 ## The Problem
 I love to watch good movies, and a great movie makes me feel full of contentment by the end. However, it takes time and effort to determine what to watch, especially when we start to consider how much time you have to watch, what kind of movie I am looking for, and so on. The absolute last thing you want when you have spent 30 minutes hunting for movie, finally pick one, sit down and devote 2 hours of your precious time watching it just to rate it 2 stars and go to bed.
 
