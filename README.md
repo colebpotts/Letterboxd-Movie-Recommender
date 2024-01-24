@@ -1,10 +1,7 @@
-# Movie Recommender System
-## Capstone - Sprint 3
+# Letterboxd Movie Recommender System
 
 Author: Cole Beevor-Potts
 Date: January 8th 2024
-
-# My project: a movie recommender system 
 
 ## The Problem
 I love to watch good movies, and a great movie makes me feel full of contentment by the end. However, it takes time and effort to determine what to watch and the absolute last thing you want when you have spent 30 minutes hunting for movie, finally pick one, sit down and devote 2 hours of your precious time watching it just to rate it 2 stars and go to bed.
